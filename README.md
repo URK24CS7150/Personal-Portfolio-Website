@@ -35,3 +35,53 @@ OUTPUTS:
 
 
 
+
+Personal Portfolio Website
+
+Build a modern personal portfolio website to showcase projects, technical skills, achievements, and contact information.
+
+Objective:
+
+To develop a full-stack personal portfolio web application with dynamic project management, responsive UI, and database integration.
+
+Key Activities:
+
+Set up frontend, backend, and database; create portfolio homepage; develop skills and projects sections; connect MongoDB database; build REST APIs; display projects dynamically from database.
+
+Technologies Used:
+
+HTML, CSS, JavaScript / React.js, Node.js / Express.js, MongoDB, Postman, Git & GitHub.
+
+Scope:
+
+Portfolio homepage, skills management, project listing, contact section, REST API integration, and database connectivity.
+
+Advantages:
+
+Provides real-world full-stack development experience, improves frontend-backend integration skills, enhances API and database knowledge, and creates a professional online portfolio.
+
+Disadvantages:
+
+Requires backend setup and database connectivity, needs proper deployment configuration, and depends on server availability.
+
+Key Insights:
+
+REST APIs connect frontend and backend efficiently; React.js improves UI responsiveness; MongoDB stores project details dynamically; full-stack integration improves practical development skills.
+
+Future Improvements:
+
+Add resume download feature, improve UI/UX design, implement dark mode, add animations and project images, deploy on Vercel/Render, and create mobile-responsive advanced design.
+
+Code Explanation:
+
+REST APIs handle project data operations; MongoDB stores project details; React.js fetches and displays dynamic data; Node.js and Express.js manage backend services and routing.
+
+Contact:
+
+For any questions or feedback, feel free to reach out:
+
+G.LAKSHMI NARAYANA REDDY
+
+Company: THIRANEX
+
+Email: gumreddylakshminarayana@karunya.edu.in
