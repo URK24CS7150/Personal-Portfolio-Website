@@ -2,9 +2,9 @@
 
 COMPANY:THIRANEX
 
-NAME:G.LAKSHMI NARAYANA REDDY
+NAME:BODDUPALLY SUMANTH KUMAR
 
-INTERN ID:THX-MAY2126-576
+INTERN ID:THX-JUN0426-666
 
 DOMAIN:JAVA FULL STACK DEVELOPMENT
 
@@ -80,8 +80,8 @@ Contact:
 
 For any questions or feedback, feel free to reach out:
 
-G.LAKSHMI NARAYANA REDDY
+BODDUPALLY SUMANTH KUMAR
 
 Company: THIRANEX
 
-Email: gumreddylakshminarayana@karunya.edu.in
+Email: sumanthboddupally442@gmail.com
